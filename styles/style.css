@@ -73,7 +73,26 @@ li a{
     object-fit: cover;
 }
 /* banner style end */
+/* variteis logos start */
 
+.various_companys_logo{
+    display: flex;
+    justify-content: center;
+    margin: 100px 0;
+    
+
+}
+
+.logos{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    padding: 50px 0;
+   
+    /* background-color: red; */
+}
 
 /* populer collection start */
 
