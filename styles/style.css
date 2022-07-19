@@ -78,7 +78,7 @@ li a{
 .various_companys_logo{
     display: flex;
     justify-content: center;
-    margin: 100px 0;
+    
     
 
 }
@@ -91,7 +91,7 @@ li a{
     border-bottom: 1px solid lightgray;
     padding: 50px 0;
    
-    /* background-color: red; */
+   
 }
 
 /* populer collection start */
